@@ -1,4 +1,4 @@
-var oAuthAdapter = require('/lib/oauth/oauth').create({
+var oAuthAdapter = require('/lib/oauth').create({
 	service: 'tableproject1',
 	consumerKey: '-- YOUR CONSUMER KEY HERE --',
 	consumerSecret: '-- YOUR CONSUMER SECRET HERE --',
