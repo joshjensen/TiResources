@@ -1,5 +1,5 @@
 var oAuthAdapter = require('/lib/oauth').create({
-	service: 'tableproject1',
+	service: 'serviceName',
 	consumerKey: '-- YOUR CONSUMER KEY HERE --',
 	consumerSecret: '-- YOUR CONSUMER SECRET HERE --',
 	signatureMethod: '-- YOU SIGNATURE METHOD HERE -- ', // ex. PLAINTEXT, HMAC-SHA1
